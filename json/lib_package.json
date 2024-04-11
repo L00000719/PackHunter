@@ -1,0 +1,1126 @@
+{
+    "libc.so": [
+        "libklibc-dev",
+        "libc6-dev"
+    ],
+    "libgcc_s.so": [
+        "lib32gcc-10-dev",
+        "libgcc-10-dev",
+        "libx32gcc-10-dev",
+        "lib32gcc-11-dev",
+        "libgcc-11-dev",
+        "libx32gcc-11-dev",
+        "lib32gcc-12-dev",
+        "libgcc-12-dev",
+        "libx32gcc-12-dev",
+        "lib32gcc-9-dev",
+        "libgcc-9-dev",
+        "libx32gcc-9-dev"
+    ],
+    "libhistory.so": [
+        "libeditreadline-dev",
+        "libreadline-dev",
+        "lib32readline-dev"
+    ],
+    "libncurses.so": [
+        "libncurses-dev",
+        "lib32ncurses-dev"
+    ],
+    "libncursesw.so": [
+        "libncurses-dev",
+        "lib32ncurses-dev"
+    ],
+    "libreadline.so": [
+        "libeditreadline-dev",
+        "libreadline-dev",
+        "lib32readline-dev"
+    ],
+    "libselinux.so": [
+        "android-libselinux-dev",
+        "libselinux1-dev"
+    ],
+    "libsepol.so": [
+        "android-libsepol-dev",
+        "libsepol-dev"
+    ],
+    "libtinfo.so": [
+        "libncurses-dev",
+        "lib32ncurses-dev"
+    ],
+    "libz.so": [
+        "libzadc-dev",
+        "zlib1g-dev",
+        "lib32z1-dev",
+        "libx32z1-dev"
+    ],
+    "libstdc++.so": [
+        "lib32stdc++-10-dev",
+        "libstdc++-10-dev",
+        "libx32stdc++-10-dev",
+        "lib32stdc++-11-dev",
+        "libstdc++-11-dev",
+        "libx32stdc++-11-dev",
+        "lib32stdc++-12-dev",
+        "libstdc++-12-dev",
+        "libx32stdc++-12-dev",
+        "lib32stdc++-9-dev",
+        "libstdc++-9-dev",
+        "libx32stdc++-9-dev"
+    ],
+    "libasan.so": [
+        "lib32gcc-10-dev",
+        "libgcc-10-dev",
+        "libx32gcc-10-dev",
+        "lib32gcc-11-dev",
+        "libgcc-11-dev",
+        "libx32gcc-11-dev",
+        "lib32gcc-12-dev",
+        "libgcc-12-dev",
+        "libx32gcc-12-dev",
+        "lib32gcc-9-dev",
+        "libgcc-9-dev",
+        "libx32gcc-9-dev"
+    ],
+    "libatomic.so": [
+        "lib32gcc-10-dev",
+        "libgcc-10-dev",
+        "libx32gcc-10-dev",
+        "lib32gcc-11-dev",
+        "libgcc-11-dev",
+        "libx32gcc-11-dev",
+        "lib32gcc-12-dev",
+        "libgcc-12-dev",
+        "libx32gcc-12-dev",
+        "lib32gcc-9-dev",
+        "libgcc-9-dev",
+        "libx32gcc-9-dev"
+    ],
+    "libgdruntime.so": [
+        "lib32gphobos-10-dev",
+        "libgphobos-10-dev",
+        "libx32gphobos-10-dev",
+        "lib32gphobos-11-dev",
+        "libgphobos-11-dev",
+        "libx32gphobos-11-dev",
+        "lib32gphobos-12-dev",
+        "libgphobos-12-dev",
+        "libx32gphobos-12-dev",
+        "lib32gphobos-9-dev",
+        "libgphobos-9-dev",
+        "libx32gphobos-9-dev"
+    ],
+    "libgfortran.so": [
+        "lib32gfortran-10-dev",
+        "libgfortran-10-dev",
+        "libx32gfortran-10-dev",
+        "lib32gfortran-11-dev",
+        "libgfortran-11-dev",
+        "libx32gfortran-11-dev",
+        "lib32gfortran-12-dev",
+        "libgfortran-12-dev",
+        "libx32gfortran-12-dev",
+        "lib32gfortran-9-dev",
+        "libgfortran-9-dev",
+        "libx32gfortran-9-dev"
+    ],
+    "libgo.so": [
+        "lib32go-10-dev",
+        "libgo-10-dev",
+        "libx32go-10-dev",
+        "lib32go-11-dev",
+        "libgo-11-dev",
+        "libx32go-11-dev",
+        "lib32go-12-dev",
+        "libgo-12-dev",
+        "libx32go-12-dev",
+        "lib32go-9-dev",
+        "libgo-9-dev",
+        "libx32go-9-dev"
+    ],
+    "libgomp.so": [
+        "lib32gcc-10-dev",
+        "libgcc-10-dev",
+        "libx32gcc-10-dev",
+        "lib32gcc-11-dev",
+        "libgcc-11-dev",
+        "libx32gcc-11-dev",
+        "lib32gcc-12-dev",
+        "libgcc-12-dev",
+        "libx32gcc-12-dev",
+        "lib32gcc-9-dev",
+        "libgcc-9-dev",
+        "libx32gcc-9-dev",
+        "libomp-11-dev",
+        "libomp-12-dev",
+        "libomp-13-dev",
+        "libomp-14-dev"
+    ],
+    "libgphobos.so": [
+        "lib32gphobos-10-dev",
+        "libgphobos-10-dev",
+        "libx32gphobos-10-dev",
+        "lib32gphobos-11-dev",
+        "libgphobos-11-dev",
+        "libx32gphobos-11-dev",
+        "lib32gphobos-12-dev",
+        "libgphobos-12-dev",
+        "libx32gphobos-12-dev",
+        "lib32gphobos-9-dev",
+        "libgphobos-9-dev",
+        "libx32gphobos-9-dev"
+    ],
+    "libitm.so": [
+        "lib32gcc-10-dev",
+        "libgcc-10-dev",
+        "libx32gcc-10-dev",
+        "lib32gcc-11-dev",
+        "libgcc-11-dev",
+        "libx32gcc-11-dev",
+        "lib32gcc-12-dev",
+        "libgcc-12-dev",
+        "libx32gcc-12-dev",
+        "lib32gcc-9-dev",
+        "libgcc-9-dev",
+        "libx32gcc-9-dev"
+    ],
+    "liblog.so": [
+        "libgm2-9-dev",
+        "libhttrack-dev"
+    ],
+    "liblsan.so": [
+        "libgcc-10-dev",
+        "libgcc-11-dev",
+        "libgcc-12-dev",
+        "libgcc-9-dev"
+    ],
+    "libm2cor.so": [
+        "libgm2-10-dev",
+        "libgm2-11-dev",
+        "libgm2-12-dev"
+    ],
+    "libm2iso.so": [
+        "libgm2-10-dev",
+        "libgm2-11-dev",
+        "libgm2-12-dev"
+    ],
+    "libm2log.so": [
+        "libgm2-10-dev",
+        "libgm2-11-dev",
+        "libgm2-12-dev"
+    ],
+    "libm2min.so": [
+        "libgm2-10-dev",
+        "libgm2-11-dev",
+        "libgm2-12-dev"
+    ],
+    "libm2pim.so": [
+        "libgm2-10-dev",
+        "libgm2-11-dev",
+        "libgm2-12-dev"
+    ],
+    "libobjc.so": [
+        "lib32objc-10-dev",
+        "libobjc-10-dev",
+        "libx32objc-10-dev",
+        "lib32objc-11-dev",
+        "libobjc-11-dev",
+        "libx32objc-11-dev",
+        "lib32objc-12-dev",
+        "libobjc-12-dev",
+        "libx32objc-12-dev",
+        "lib32objc-9-dev",
+        "libobjc-9-dev",
+        "libx32objc-9-dev"
+    ],
+    "libtsan.so": [
+        "libgcc-10-dev",
+        "libgcc-11-dev",
+        "libgcc-12-dev",
+        "libgcc-9-dev"
+    ],
+    "libubsan.so": [
+        "lib32gcc-10-dev",
+        "libgcc-10-dev",
+        "libx32gcc-10-dev",
+        "lib32gcc-11-dev",
+        "libgcc-11-dev",
+        "libx32gcc-11-dev",
+        "lib32gcc-12-dev",
+        "libgcc-12-dev",
+        "libx32gcc-12-dev",
+        "lib32gcc-9-dev",
+        "libgcc-9-dev",
+        "libx32gcc-9-dev"
+    ],
+    "libhsail-rt.so": [
+        "libhsail-rt-10-dev",
+        "libhsail-rt-11-dev",
+        "libhsail-rt-9-dev"
+    ],
+    "libquadmath.so": [
+        "lib32gcc-10-dev",
+        "libgcc-10-dev",
+        "libx32gcc-10-dev",
+        "lib32gcc-11-dev",
+        "libgcc-11-dev",
+        "libx32gcc-11-dev",
+        "lib32gcc-12-dev",
+        "libgcc-12-dev",
+        "libx32gcc-12-dev",
+        "lib32gcc-9-dev",
+        "libgcc-9-dev",
+        "libx32gcc-9-dev"
+    ],
+    "libblas.so": [
+        "libatlas-base-dev",
+        "libblas-dev",
+        "libmkl-dev",
+        "libopenblas-openmp-dev",
+        "libopenblas-pthread-dev",
+        "libopenblas-serial-dev"
+    ],
+    "liblapack.so": [
+        "libatlas-base-dev",
+        "liblapack-dev",
+        "libmkl-dev",
+        "libopenblas-openmp-dev",
+        "libopenblas-pthread-dev",
+        "libopenblas-serial-dev"
+    ],
+    "libjack.so": [
+        "libjack-jackd2-dev",
+        "libjack-dev"
+    ],
+    "libcurl.so": [
+        "libcurl4-gnutls-dev",
+        "libcurl4-openssl-dev",
+        "libcurl4-nss-dev"
+    ],
+    "libmenu.so": [
+        "libncurses-dev",
+        "lib32ncurses-dev"
+    ],
+    "libgccjit.so": [
+        "libgccjit-10-dev",
+        "libgccjit-11-dev",
+        "libgccjit-12-dev",
+        "libgccjit-9-dev"
+    ],
+    "libobjc_gc.so": [
+        "libobjc-10-dev",
+        "libobjc-11-dev",
+        "libobjc-12-dev",
+        "libobjc-9-dev"
+    ],
+    "libmpi.so": [
+        "lam4-dev",
+        "libopenmpi-dev"
+    ],
+    "libEOControl.so": [
+        "libgnustep-dl2-dev",
+        "libsope-dev"
+    ],
+    "libHBAAPI.so": [
+        "libhaapi-dev",
+        "libhbaapi-dev"
+    ],
+    "libLTO.so": [
+        "llvm-dev",
+        "llvm-11-dev",
+        "llvm-12-dev",
+        "llvm-13-dev",
+        "llvm-14-dev"
+    ],
+    "libXaw3dxft.so": [
+        "libxaw3dxft8-dev",
+        "xpaint-dev"
+    ],
+    "libXnCore.so": [
+        "libopenni-sensor-pointclouds-dev",
+        "libopenni-sensor-primesense-dev"
+    ],
+    "libXnDDK.so": [
+        "libopenni-sensor-pointclouds-dev",
+        "libopenni-sensor-primesense-dev"
+    ],
+    "libXnDeviceFile.so": [
+        "libopenni-sensor-pointclouds-dev",
+        "libopenni-sensor-primesense-dev"
+    ],
+    "libXnDeviceSensorV2.so": [
+        "libopenni-sensor-pointclouds-dev",
+        "libopenni-sensor-primesense-dev"
+    ],
+    "libXnFormats.so": [
+        "libopenni-sensor-pointclouds-dev",
+        "libopenni-sensor-primesense-dev"
+    ],
+    "libgdc.so": [
+        "libgdchart-gd2-noxpm-dev",
+        "libgdchart-gd2-xpm-dev"
+    ],
+    "liblldb.so": [
+        "liblldb-dev",
+        "liblldb-11-dev",
+        "liblldb-12-dev",
+        "liblldb-13-dev",
+        "liblldb-14-dev"
+    ],
+    "libparmetis.so": [
+        "libparmetis-dev",
+        "libscotchparmetis-dev"
+    ],
+    "libpcp.so": [
+        "libpcp3-dev",
+        "libpgpool-dev"
+    ],
+    "libpgm.so": [
+        "libnetpbm9-dev",
+        "libpgm-dev"
+    ],
+    "libclang_rt.asan-i386.so": [
+        "libclang-common-11-dev",
+        "libclang-common-12-dev",
+        "libclang-common-13-dev",
+        "libclang-common-14-dev"
+    ],
+    "libclang_rt.asan-x86_64.so": [
+        "libclang-common-11-dev",
+        "libclang-common-12-dev",
+        "libclang-common-13-dev",
+        "libclang-common-14-dev"
+    ],
+    "libclang_rt.dyndd-x86_64.so": [
+        "libclang-common-11-dev",
+        "libclang-common-12-dev",
+        "libclang-common-13-dev",
+        "libclang-common-14-dev"
+    ],
+    "libclang_rt.hwasan-x86_64.so": [
+        "libclang-common-11-dev",
+        "libclang-common-12-dev",
+        "libclang-common-13-dev",
+        "libclang-common-14-dev"
+    ],
+    "libclang_rt.scudo-i386.so": [
+        "libclang-common-11-dev",
+        "libclang-common-12-dev",
+        "libclang-common-13-dev",
+        "libclang-common-14-dev"
+    ],
+    "libclang_rt.scudo-x86_64.so": [
+        "libclang-common-11-dev",
+        "libclang-common-12-dev",
+        "libclang-common-13-dev",
+        "libclang-common-14-dev"
+    ],
+    "libclang_rt.scudo_minimal-i386.so": [
+        "libclang-common-11-dev",
+        "libclang-common-12-dev",
+        "libclang-common-13-dev",
+        "libclang-common-14-dev"
+    ],
+    "libclang_rt.scudo_minimal-x86_64.so": [
+        "libclang-common-11-dev",
+        "libclang-common-12-dev",
+        "libclang-common-13-dev",
+        "libclang-common-14-dev"
+    ],
+    "libclang_rt.ubsan_minimal-i386.so": [
+        "libclang-common-11-dev",
+        "libclang-common-12-dev",
+        "libclang-common-13-dev",
+        "libclang-common-14-dev"
+    ],
+    "libclang_rt.ubsan_minimal-x86_64.so": [
+        "libclang-common-11-dev",
+        "libclang-common-12-dev",
+        "libclang-common-13-dev",
+        "libclang-common-14-dev"
+    ],
+    "libclang_rt.ubsan_standalone-i386.so": [
+        "libclang-common-11-dev",
+        "libclang-common-12-dev",
+        "libclang-common-13-dev",
+        "libclang-common-14-dev"
+    ],
+    "libclang_rt.ubsan_standalone-x86_64.so": [
+        "libclang-common-11-dev",
+        "libclang-common-12-dev",
+        "libclang-common-13-dev",
+        "libclang-common-14-dev"
+    ],
+    "libLLVM.so": [
+        "llvm-11-dev",
+        "llvm-12-dev",
+        "llvm-13-dev",
+        "llvm-14-dev"
+    ],
+    "libRemarks.so": [
+        "llvm-11-dev",
+        "llvm-12-dev",
+        "llvm-13-dev",
+        "llvm-14-dev"
+    ],
+    "libarcher.so": [
+        "libomp-11-dev",
+        "libomp-12-dev",
+        "libomp-13-dev",
+        "libomp-14-dev"
+    ],
+    "libc++.so": [
+        "libc++-11-dev",
+        "libc++-12-dev",
+        "libc++-13-dev",
+        "libc++-14-dev"
+    ],
+    "libc++abi.so": [
+        "libc++abi-11-dev",
+        "libc++abi-12-dev",
+        "libc++abi-13-dev",
+        "libc++abi-14-dev"
+    ],
+    "libclang-cpp.so": [
+        "libclang-cpp11-dev",
+        "libclang-cpp12-dev",
+        "libclang-cpp13-dev",
+        "libclang-cpp14-dev"
+    ],
+    "libclang.so": [
+        "libclang-11-dev",
+        "libclang-12-dev",
+        "libclang-13-dev",
+        "libclang-14-dev"
+    ],
+    "libiomp5.so": [
+        "libomp-11-dev",
+        "libomp-12-dev",
+        "libomp-13-dev",
+        "libomp-14-dev"
+    ],
+    "liblldbIntelFeatures.so": [
+        "liblldb-11-dev",
+        "liblldb-12-dev",
+        "liblldb-13-dev",
+        "liblldb-14-dev"
+    ],
+    "libomp.so": [
+        "libomp-11-dev",
+        "libomp-12-dev",
+        "libomp-13-dev",
+        "libomp-14-dev"
+    ],
+    "libomptarget.so": [
+        "libomp-11-dev",
+        "libomp-12-dev",
+        "libomp-13-dev",
+        "libomp-14-dev"
+    ],
+    "libclang_rt.memprof-x86_64.so": [
+        "libclang-common-12-dev",
+        "libclang-common-13-dev",
+        "libclang-common-14-dev"
+    ],
+    "libomptarget.rtl.cuda.so": [
+        "libomp-12-dev",
+        "libomp-13-dev",
+        "libomp-14-dev"
+    ],
+    "libomptarget.rtl.x86_64.so": [
+        "libomp-12-dev",
+        "libomp-13-dev",
+        "libomp-14-dev"
+    ],
+    "libunwind.so": [
+        "libunwind-12-dev",
+        "libunwind-13-dev",
+        "libunwind-14-dev",
+        "android-libunwind-dev",
+        "libunwind-dev"
+    ],
+    "libclang_rt.hwasan_aliases-x86_64.so": [
+        "libclang-common-13-dev",
+        "libclang-common-14-dev"
+    ],
+    "libclang_rt.scudo_standalone-i386.so": [
+        "libclang-common-13-dev",
+        "libclang-common-14-dev"
+    ],
+    "libclang_rt.scudo_standalone-x86_64.so": [
+        "libclang-common-13-dev",
+        "libclang-common-14-dev"
+    ],
+    "libMLIR.so": [
+        "libmlir-13-dev",
+        "libmlir-14-dev"
+    ],
+    "libmlir_async_runtime.so": [
+        "libmlir-13-dev",
+        "libmlir-14-dev"
+    ],
+    "libmlir_c_runner_utils.so": [
+        "libmlir-13-dev",
+        "libmlir-14-dev"
+    ],
+    "libmlir_runner_utils.so": [
+        "libmlir-13-dev",
+        "libmlir-14-dev"
+    ],
+    "libomptarget.rtl.amdgpu.so": [
+        "libomp-13-dev",
+        "libomp-14-dev"
+    ],
+    "libQt5Concurrent.so": [
+        "qtbase5-dev",
+        "qtbase5-gles-dev"
+    ],
+    "libQt5Core.so": [
+        "qtbase5-dev",
+        "qtbase5-gles-dev"
+    ],
+    "libQt5DBus.so": [
+        "qtbase5-dev",
+        "qtbase5-gles-dev"
+    ],
+    "libQt5Gui.so": [
+        "qtbase5-dev",
+        "qtbase5-gles-dev"
+    ],
+    "libQt5PrintSupport.so": [
+        "qtbase5-dev",
+        "qtbase5-gles-dev"
+    ],
+    "libQt5Sql.so": [
+        "qtbase5-dev",
+        "qtbase5-gles-dev"
+    ],
+    "libQt5Widgets.so": [
+        "qtbase5-dev",
+        "qtbase5-gles-dev"
+    ],
+    "libQt5XcbQpa.so": [
+        "qtbase5-dev",
+        "qtbase5-gles-dev"
+    ],
+    "libQt5Xml.so": [
+        "qtbase5-dev",
+        "qtbase5-gles-dev"
+    ],
+    "libssh.so": [
+        "libssh-dev",
+        "libssh-gcrypt-dev"
+    ],
+    "libmodplug.so": [
+        "libmodplug-dev",
+        "libopenmpt-modplug-dev"
+    ],
+    "libcrypto.so": [
+        "android-libboringssl-dev",
+        "libssl-dev"
+    ],
+    "libssl.so": [
+        "android-libboringssl-dev",
+        "libssl-dev"
+    ],
+    "libblas64.so": [
+        "libblas64-dev",
+        "libmkl-dev",
+        "libopenblas64-openmp-dev",
+        "libopenblas64-pthread-dev",
+        "libopenblas64-serial-dev"
+    ],
+    "libblis.so": [
+        "libblis-openmp-dev",
+        "libblis-pthread-dev",
+        "libblis-serial-dev"
+    ],
+    "libblis64.so": [
+        "libblis64-openmp-dev",
+        "libblis64-pthread-dev",
+        "libblis64-serial-dev"
+    ],
+    "libedit.so": [
+        "libcamitk-dev",
+        "libedit-dev"
+    ],
+    "libframe.so": [
+        "libcamitk-dev",
+        "libframe-dev"
+    ],
+    "libstl.so": [
+        "libcamitk-dev",
+        "libnglib-dev"
+    ],
+    "libappindicator.so": [
+        "libappindicator-dev",
+        "libayatana-appindicator-dev"
+    ],
+    "libjpeg.so": [
+        "libjpeg-turbo8-dev",
+        "libjpeg9-dev",
+        "libjpeg62-dev"
+    ],
+    "libhdf5.so": [
+        "libhdf5-mpich-dev",
+        "libhdf5-openmpi-dev",
+        "libhdf5-dev"
+    ],
+    "libhdf5_cpp.so": [
+        "libhdf5-mpich-dev",
+        "libhdf5-openmpi-dev",
+        "libhdf5-dev"
+    ],
+    "libhdf5_fortran.so": [
+        "libhdf5-mpich-dev",
+        "libhdf5-openmpi-dev",
+        "libhdf5-dev"
+    ],
+    "libhdf5_hl.so": [
+        "libhdf5-mpich-dev",
+        "libhdf5-openmpi-dev",
+        "libhdf5-dev"
+    ],
+    "libhdf5_hl_cpp.so": [
+        "libhdf5-mpich-dev",
+        "libhdf5-openmpi-dev",
+        "libhdf5-dev"
+    ],
+    "libhdf5hl_fortran.so": [
+        "libhdf5-mpich-dev",
+        "libhdf5-openmpi-dev",
+        "libhdf5-dev"
+    ],
+    "liblapack64.so": [
+        "liblapack64-dev",
+        "libmkl-dev",
+        "libopenblas64-openmp-dev",
+        "libopenblas64-pthread-dev",
+        "libopenblas64-serial-dev"
+    ],
+    "libImath.so": [
+        "libilmbase-dev",
+        "libimath-dev"
+    ],
+    "libLLVMSPIRVLib.so": [
+        "libllvmspirvlib-12-dev",
+        "libllvmspirvlib-dev"
+    ],
+    "libOgreMain.so": [
+        "libogre-1.12-dev",
+        "libogre-1.9-dev"
+    ],
+    "libOgreOverlay.so": [
+        "libogre-1.12-dev",
+        "libogre-1.9-dev"
+    ],
+    "libOgrePaging.so": [
+        "libogre-1.12-dev",
+        "libogre-1.9-dev"
+    ],
+    "libOgreProperty.so": [
+        "libogre-1.12-dev",
+        "libogre-1.9-dev"
+    ],
+    "libOgreRTShaderSystem.so": [
+        "libogre-1.12-dev",
+        "libogre-1.9-dev"
+    ],
+    "libOgreTerrain.so": [
+        "libogre-1.12-dev",
+        "libogre-1.9-dev"
+    ],
+    "libOgreVolume.so": [
+        "libogre-1.12-dev",
+        "libogre-1.9-dev"
+    ],
+    "libQt5EglFSDeviceIntegration.so": [
+        "qtbase5-dev",
+        "qtbase5-gles-dev"
+    ],
+    "libQt5EglFsKmsSupport.so": [
+        "qtbase5-dev",
+        "qtbase5-gles-dev"
+    ],
+    "libQt5Network.so": [
+        "qtbase5-dev",
+        "qtbase5-gles-dev"
+    ],
+    "libQt5Test.so": [
+        "qtbase5-dev",
+        "qtbase5-gles-dev"
+    ],
+    "libSDL.so": [
+        "libsdl1.2-compat-dev",
+        "libsdl1.2-dev"
+    ],
+    "libTKBO.so": [
+        "libocct-modeling-algorithms-dev",
+        "liboce-modeling-dev"
+    ],
+    "libTKBRep.so": [
+        "libocct-modeling-data-dev",
+        "liboce-modeling-dev"
+    ],
+    "libTKBin.so": [
+        "libocct-ocaf-dev",
+        "liboce-ocaf-dev"
+    ],
+    "libTKBinL.so": [
+        "libocct-ocaf-dev",
+        "liboce-ocaf-lite-dev"
+    ],
+    "libTKBinTObj.so": [
+        "libocct-ocaf-dev",
+        "liboce-ocaf-dev"
+    ],
+    "libTKBinXCAF.so": [
+        "libocct-data-exchange-dev",
+        "liboce-ocaf-dev"
+    ],
+    "libTKBool.so": [
+        "libocct-modeling-algorithms-dev",
+        "liboce-modeling-dev"
+    ],
+    "libTKCAF.so": [
+        "libocct-ocaf-dev",
+        "liboce-ocaf-dev"
+    ],
+    "libTKCDF.so": [
+        "libocct-ocaf-dev",
+        "liboce-ocaf-lite-dev"
+    ],
+    "libTKFeat.so": [
+        "libocct-modeling-algorithms-dev",
+        "liboce-modeling-dev"
+    ],
+    "libTKFillet.so": [
+        "libocct-modeling-algorithms-dev",
+        "liboce-modeling-dev"
+    ],
+    "libTKG2d.so": [
+        "libocct-modeling-data-dev",
+        "liboce-modeling-dev"
+    ],
+    "libTKG3d.so": [
+        "libocct-modeling-data-dev",
+        "liboce-modeling-dev"
+    ],
+    "libTKGeomAlgo.so": [
+        "libocct-modeling-algorithms-dev",
+        "liboce-modeling-dev"
+    ],
+    "libTKGeomBase.so": [
+        "libocct-modeling-data-dev",
+        "liboce-modeling-dev"
+    ],
+    "libTKHLR.so": [
+        "libocct-modeling-algorithms-dev",
+        "liboce-modeling-dev"
+    ],
+    "libTKIGES.so": [
+        "libocct-data-exchange-dev",
+        "liboce-modeling-dev"
+    ],
+    "libTKLCAF.so": [
+        "libocct-ocaf-dev",
+        "liboce-ocaf-lite-dev"
+    ],
+    "libTKMath.so": [
+        "libocct-foundation-dev",
+        "liboce-foundation-dev"
+    ],
+    "libTKMesh.so": [
+        "libocct-modeling-algorithms-dev",
+        "liboce-modeling-dev"
+    ],
+    "libTKMeshVS.so": [
+        "libocct-visualization-dev",
+        "liboce-visualization-dev"
+    ],
+    "libTKOffset.so": [
+        "libocct-modeling-algorithms-dev",
+        "liboce-modeling-dev"
+    ],
+    "libTKOpenGl.so": [
+        "libocct-visualization-dev",
+        "liboce-visualization-dev"
+    ],
+    "libTKPrim.so": [
+        "libocct-modeling-algorithms-dev",
+        "liboce-modeling-dev"
+    ],
+    "libTKSTEP.so": [
+        "libocct-data-exchange-dev",
+        "liboce-modeling-dev"
+    ],
+    "libTKSTEP209.so": [
+        "libocct-data-exchange-dev",
+        "liboce-modeling-dev"
+    ],
+    "libTKSTEPAttr.so": [
+        "libocct-data-exchange-dev",
+        "liboce-modeling-dev"
+    ],
+    "libTKSTEPBase.so": [
+        "libocct-data-exchange-dev",
+        "liboce-modeling-dev"
+    ],
+    "libTKSTL.so": [
+        "libocct-data-exchange-dev",
+        "liboce-modeling-dev"
+    ],
+    "libTKService.so": [
+        "libocct-visualization-dev",
+        "liboce-visualization-dev"
+    ],
+    "libTKShHealing.so": [
+        "libocct-modeling-algorithms-dev",
+        "liboce-modeling-dev"
+    ],
+    "libTKTObj.so": [
+        "libocct-ocaf-dev",
+        "liboce-ocaf-lite-dev"
+    ],
+    "libTKTopAlgo.so": [
+        "libocct-modeling-algorithms-dev",
+        "liboce-modeling-dev"
+    ],
+    "libTKV3d.so": [
+        "libocct-visualization-dev",
+        "liboce-visualization-dev"
+    ],
+    "libTKVRML.so": [
+        "libocct-data-exchange-dev",
+        "liboce-visualization-dev"
+    ],
+    "libTKXCAF.so": [
+        "libocct-data-exchange-dev",
+        "liboce-ocaf-dev"
+    ],
+    "libTKXDEIGES.so": [
+        "libocct-data-exchange-dev",
+        "liboce-ocaf-dev"
+    ],
+    "libTKXDESTEP.so": [
+        "libocct-data-exchange-dev",
+        "liboce-ocaf-dev"
+    ],
+    "libTKXMesh.so": [
+        "libocct-modeling-algorithms-dev",
+        "liboce-modeling-dev"
+    ],
+    "libTKXSBase.so": [
+        "libocct-data-exchange-dev",
+        "liboce-modeling-dev"
+    ],
+    "libTKXml.so": [
+        "libocct-ocaf-dev",
+        "liboce-ocaf-dev"
+    ],
+    "libTKXmlL.so": [
+        "libocct-ocaf-dev",
+        "liboce-ocaf-lite-dev"
+    ],
+    "libTKXmlTObj.so": [
+        "libocct-ocaf-dev",
+        "liboce-ocaf-dev"
+    ],
+    "libTKXmlXCAF.so": [
+        "libocct-data-exchange-dev",
+        "liboce-ocaf-dev"
+    ],
+    "libTKernel.so": [
+        "libocct-foundation-dev",
+        "liboce-foundation-dev"
+    ],
+    "libappindicator3.so": [
+        "libayatana-appindicator3-dev",
+        "libappindicator3-dev"
+    ],
+    "libbind9.so": [
+        "bind9-dev",
+        "libbind-dev"
+    ],
+    "libcob.so": [
+        "libcob4-dev",
+        "libcob5-dev"
+    ],
+    "libcunit.so": [
+        "libcunit1-dev",
+        "libcunit1-ncurses-dev"
+    ],
+    "libcurses.so": [
+        "libncurses-dev",
+        "lib32ncurses-dev"
+    ],
+    "libdns.so": [
+        "bind9-dev",
+        "libbind-dev"
+    ],
+    "libespeak.so": [
+        "libespeak-ng-libespeak-dev",
+        "libespeak-dev"
+    ],
+    "libfltk.so": [
+        "libfltk1.1-dev",
+        "libfltk1.3-dev"
+    ],
+    "libfltk_forms.so": [
+        "libfltk1.1-dev",
+        "libfltk1.3-dev"
+    ],
+    "libfltk_gl.so": [
+        "libfltk1.1-dev",
+        "libfltk1.3-dev"
+    ],
+    "libfltk_images.so": [
+        "libfltk1.1-dev",
+        "libfltk1.3-dev"
+    ],
+    "libform.so": [
+        "libncurses-dev",
+        "lib32ncurses-dev"
+    ],
+    "libformw.so": [
+        "libncurses-dev",
+        "lib32ncurses-dev"
+    ],
+    "libirs.so": [
+        "bind9-dev",
+        "libbind-dev"
+    ],
+    "libisc.so": [
+        "bind9-dev",
+        "libbind-dev"
+    ],
+    "libisccc.so": [
+        "bind9-dev",
+        "libbind-dev"
+    ],
+    "libisccfg.so": [
+        "bind9-dev",
+        "libbind-dev"
+    ],
+    "libjackserver.so": [
+        "libjack-jackd2-dev",
+        "libjack-dev"
+    ],
+    "libmeep.so": [
+        "libmeep-dev",
+        "libmeep-openmpi-dev",
+        "libmeep-mpi-default-dev"
+    ],
+    "libmenuw.so": [
+        "libncurses-dev",
+        "lib32ncurses-dev"
+    ],
+    "libmetis.so": [
+        "libmetis-dev",
+        "libscotchmetis-dev"
+    ],
+    "libneon.so": [
+        "libneon27-dev",
+        "libneon27-gnutls-dev"
+    ],
+    "libnetcdf.so": [
+        "libnetcdf-dev",
+        "libnetcdf-mpi-dev",
+        "libnetcdf-pnetcdf-dev"
+    ],
+    "libomp5.so": [
+        "libomp-11-dev",
+        "libomp-14-dev",
+        "libomp-13-dev",
+        "libomp-12-dev"
+    ],
+    "libopencl-clang.so": [
+        "libopencl-clang-12-dev",
+        "libopencl-clang-dev"
+    ],
+    "libotf.so": [
+        "libotf-dev",
+        "libotf-trace-dev"
+    ],
+    "libpanel.so": [
+        "libncurses-dev",
+        "lib32ncurses-dev"
+    ],
+    "libpanelw.so": [
+        "libncurses-dev",
+        "lib32ncurses-dev"
+    ],
+    "libsiscone.so": [
+        "libfastjetplugins-dev",
+        "libsiscone-dev"
+    ],
+    "libsiscone_spherical.so": [
+        "libfastjetplugins-dev",
+        "libsiscone-spherical-dev"
+    ],
+    "libsocl-1.3.so": [
+        "libstarpu-dev",
+        "libstarpu-contrib-dev"
+    ],
+    "libstarpu-1.3.so": [
+        "libstarpu-dev",
+        "libstarpu-contrib-dev"
+    ],
+    "libstarpufft-1.3.so": [
+        "libstarpu-dev",
+        "libstarpu-contrib-dev"
+    ],
+    "libstarpumpi-1.3.so": [
+        "libstarpu-dev",
+        "libstarpu-contrib-dev"
+    ],
+    "libstarpurm-1.3.so": [
+        "libstarpu-dev",
+        "libstarpu-contrib-dev"
+    ],
+    "libtbb.so": [
+        "libtbb-dev",
+        "libtbb2-dev"
+    ],
+    "libtbbmalloc.so": [
+        "libtbb-dev",
+        "libtbb2-dev"
+    ],
+    "libtbbmalloc_proxy.so": [
+        "libtbb-dev",
+        "libtbb2-dev"
+    ],
+    "libtermcap.so": [
+        "libncurses-dev",
+        "lib32ncurses-dev"
+    ],
+    "libtic.so": [
+        "libncurses-dev",
+        "lib32ncurses-dev"
+    ],
+    "libyang.so": [
+        "libyang2-dev",
+        "libyang-dev"
+    ],
+    "libcaf_mpi.so": [
+        "libcoarrays-mpich-dev",
+        "libcoarrays-openmpi-dev"
+    ],
+    "libopenblas.so": [
+        "libopenblas-openmp-dev",
+        "libopenblas-pthread-dev",
+        "libopenblas-serial-dev"
+    ],
+    "libopenblas64.so": [
+        "libopenblas64-openmp-dev",
+        "libopenblas64-pthread-dev",
+        "libopenblas64-serial-dev"
+    ],
+    "libqwebengineview.so": [
+        "qtwebengine5-dev",
+        "qt6-webengine-dev"
+    ],
+    "libwine.so": [
+        "libwine-development-dev",
+        "libwine-dev"
+    ]
+}

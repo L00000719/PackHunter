@@ -1,0 +1,380 @@
+{
+    "gpg-error.pc": [
+        "libgpg-error-mingw-w64-dev",
+        "libgpg-error-dev"
+    ],
+    "ksba.pc": [
+        "libksba-mingw-w64-dev",
+        "libksba-dev"
+    ],
+    "libassuan.pc": [
+        "libassuan-mingw-w64-dev",
+        "libassuan-dev"
+    ],
+    "libgcrypt.pc": [
+        "libgcrypt-mingw-w64-dev",
+        "libgcrypt20-dev"
+    ],
+    "zlib.pc": [
+        "libz-mingw-w64-dev",
+        "zlib1g-dev"
+    ],
+    "dbus-1.pc": [
+        "dbus-tests",
+        "libdbus-1-dev"
+    ],
+    "PETSc.pc": [
+        "libpetsc-complex3.15-dbg",
+        "libpetsc-complex3.15-dev",
+        "libpetsc-real3.15-dbg",
+        "libpetsc-real3.15-dev",
+        "libpetsc64-complex3.15-dbg",
+        "libpetsc64-complex3.15-dev",
+        "libpetsc64-real3.15-dbg",
+        "libpetsc64-real3.15-dev"
+    ],
+    "petsc.pc": [
+        "libpetsc-complex3.15-dbg",
+        "libpetsc-complex3.15-dev",
+        "libpetsc-real3.15-dbg",
+        "libpetsc-real3.15-dev",
+        "libpetsc64-complex3.15-dbg",
+        "libpetsc64-complex3.15-dev",
+        "libpetsc64-real3.15-dbg",
+        "libpetsc64-real3.15-dev"
+    ],
+    "PETSc64.pc": [
+        "libpetsc64-complex3.15-dbg",
+        "libpetsc64-complex3.15-dev",
+        "libpetsc64-real3.15-dbg",
+        "libpetsc64-real3.15-dev"
+    ],
+    "petsc64.pc": [
+        "libpetsc64-complex3.15-dbg",
+        "libpetsc64-complex3.15-dev",
+        "libpetsc64-real3.15-dbg",
+        "libpetsc64-real3.15-dev"
+    ],
+    "HBAAPI.pc": [
+        "libhaapi-dev",
+        "libhbaapi-dev"
+    ],
+    "ImageMagick++.pc": [
+        "graphicsmagick-libmagick-dev-compat",
+        "libmagick++-6.q16-dev"
+    ],
+    "ImageMagick.pc": [
+        "graphicsmagick-libmagick-dev-compat",
+        "libmagickcore-6.q16-dev"
+    ],
+    "libclc.pc": [
+        "libclc-13-dev",
+        "libclc-12-dev",
+        "libclc-14-dev",
+        "libclc-dev"
+    ],
+    "SLEPc.pc": [
+        "libslepc-complex3.15-dev",
+        "libslepc-real3.15-dev",
+        "libslepc64-complex3.15-dev",
+        "libslepc64-real3.15-dev"
+    ],
+    "slepc.pc": [
+        "libslepc-complex3.15-dev",
+        "libslepc-real3.15-dev",
+        "libslepc64-complex3.15-dev",
+        "libslepc64-real3.15-dev"
+    ],
+    "SLEPc64.pc": [
+        "libslepc64-complex3.15-dev",
+        "libslepc64-real3.15-dev"
+    ],
+    "slepc64.pc": [
+        "libslepc64-complex3.15-dev",
+        "libslepc64-real3.15-dev"
+    ],
+    "netcdf.pc": [
+        "libnetcdf-mpi-dev",
+        "libnetcdf-pnetcdf-dev",
+        "libnetcdf-dev"
+    ],
+    "caf.pc": [
+        "libcoarrays-mpich-dev",
+        "libcoarrays-openmpi-dev"
+    ],
+    "blas-openblas.pc": [
+        "libopenblas-openmp-dev",
+        "libopenblas-pthread-dev",
+        "libopenblas-serial-dev",
+        "libopenblas64-openmp-dev",
+        "libopenblas64-pthread-dev",
+        "libopenblas64-serial-dev"
+    ],
+    "lapack-openblas.pc": [
+        "libopenblas-openmp-dev",
+        "libopenblas-pthread-dev",
+        "libopenblas-serial-dev",
+        "libopenblas64-openmp-dev",
+        "libopenblas64-pthread-dev",
+        "libopenblas64-serial-dev"
+    ],
+    "openblas.pc": [
+        "libopenblas-openmp-dev",
+        "libopenblas-pthread-dev",
+        "libopenblas-serial-dev",
+        "libopenblas64-openmp-dev",
+        "libopenblas64-pthread-dev",
+        "libopenblas64-serial-dev"
+    ],
+    "LLVMSPIRVLib.pc": [
+        "libllvmspirvlib-12-dev",
+        "libllvmspirvlib-dev"
+    ],
+    "OGRE-Overlay.pc": [
+        "libogre-1.12-dev",
+        "libogre-1.9-dev"
+    ],
+    "OGRE-PCZ.pc": [
+        "libogre-1.12-dev",
+        "libogre-1.9-dev"
+    ],
+    "OGRE-Paging.pc": [
+        "libogre-1.12-dev",
+        "libogre-1.9-dev"
+    ],
+    "OGRE-Property.pc": [
+        "libogre-1.12-dev",
+        "libogre-1.9-dev"
+    ],
+    "OGRE-RTShaderSystem.pc": [
+        "libogre-1.12-dev",
+        "libogre-1.9-dev"
+    ],
+    "OGRE-Terrain.pc": [
+        "libogre-1.12-dev",
+        "libogre-1.9-dev"
+    ],
+    "OGRE-Volume.pc": [
+        "libogre-1.12-dev",
+        "libogre-1.9-dev"
+    ],
+    "OGRE.pc": [
+        "libogre-1.12-dev",
+        "libogre-1.9-dev"
+    ],
+    "Qt5Concurrent.pc": [
+        "qtbase5-dev",
+        "qtbase5-gles-dev"
+    ],
+    "Qt5Core.pc": [
+        "qtbase5-dev",
+        "qtbase5-gles-dev"
+    ],
+    "Qt5DBus.pc": [
+        "qtbase5-dev",
+        "qtbase5-gles-dev"
+    ],
+    "Qt5Gui.pc": [
+        "qtbase5-dev",
+        "qtbase5-gles-dev"
+    ],
+    "Qt5Network.pc": [
+        "qtbase5-dev",
+        "qtbase5-gles-dev"
+    ],
+    "Qt5OpenGLExtensions.pc": [
+        "qtbase5-dev",
+        "qtbase5-gles-dev"
+    ],
+    "Qt5PrintSupport.pc": [
+        "qtbase5-dev",
+        "qtbase5-gles-dev"
+    ],
+    "Qt5Sql.pc": [
+        "qtbase5-dev",
+        "qtbase5-gles-dev"
+    ],
+    "Qt5Test.pc": [
+        "qtbase5-dev",
+        "qtbase5-gles-dev"
+    ],
+    "Qt5Widgets.pc": [
+        "qtbase5-dev",
+        "qtbase5-gles-dev"
+    ],
+    "Qt5Xml.pc": [
+        "qtbase5-dev",
+        "qtbase5-gles-dev"
+    ],
+    "cunit.pc": [
+        "libcunit1-dev",
+        "libcunit1-ncurses-dev"
+    ],
+    "egl.pc": [
+        "libegl-dev",
+        "emscripten"
+    ],
+    "glesv2.pc": [
+        "libgles-dev",
+        "emscripten"
+    ],
+    "gssrpc.pc": [
+        "libkrb5-dev",
+        "krb5-multidev"
+    ],
+    "haisrt.pc": [
+        "libsrt-gnutls-dev",
+        "libsrt-openssl-dev"
+    ],
+    "jack.pc": [
+        "libjack-jackd2-dev",
+        "libjack-dev"
+    ],
+    "jemalloc.pc": [
+        "libjemalloc-dev",
+        "librust-jemalloc-sys-dev"
+    ],
+    "kadm-client.pc": [
+        "libkrb5-dev",
+        "heimdal-dev",
+        "krb5-multidev"
+    ],
+    "kadm-server.pc": [
+        "libkrb5-dev",
+        "heimdal-dev",
+        "krb5-multidev"
+    ],
+    "kconfig-parser.pc": [
+        "kconfig-frontends",
+        "kconfig-frontends-nox"
+    ],
+    "kdb.pc": [
+        "libkrb5-dev",
+        "krb5-multidev"
+    ],
+    "krb5-gssapi.pc": [
+        "libkrb5-dev",
+        "heimdal-dev",
+        "krb5-multidev"
+    ],
+    "krb5.pc": [
+        "libkrb5-dev",
+        "heimdal-dev",
+        "krb5-multidev"
+    ],
+    "libagg.pc": [
+        "libagg-dev",
+        "libagg2-dev"
+    ],
+    "libcurl.pc": [
+        "libcurl4-gnutls-dev",
+        "libcurl4-openssl-dev",
+        "libcurl4-nss-dev"
+    ],
+    "libmodplug.pc": [
+        "libmodplug-dev",
+        "libopenmpt-modplug-dev"
+    ],
+    "libssh.pc": [
+        "libssh-dev",
+        "libssh-gcrypt-dev"
+    ],
+    "libstarpu.pc": [
+        "libstarpu-dev",
+        "libstarpu-contrib-dev"
+    ],
+    "libstarpufft.pc": [
+        "libstarpu-dev",
+        "libstarpu-contrib-dev"
+    ],
+    "libstarpumpi.pc": [
+        "libstarpu-dev",
+        "libstarpu-contrib-dev"
+    ],
+    "libyang.pc": [
+        "libyang2-dev",
+        "libyang-dev"
+    ],
+    "meep.pc": [
+        "libmeep-dev",
+        "libmeep-openmpi-dev",
+        "libmeep-mpi-default-dev"
+    ],
+    "mysqlclient.pc": [
+        "libmysqlclient-dev",
+        "libmariadb-dev-compat"
+    ],
+    "neon.pc": [
+        "libneon27-dev",
+        "libneon27-gnutls-dev"
+    ],
+    "sdl.pc": [
+        "libsdl1.2-compat-dev",
+        "libsdl1.2-dev",
+        "emscripten"
+    ],
+    "srt.pc": [
+        "libsrt-gnutls-dev",
+        "libsrt-openssl-dev"
+    ],
+    "starpu-1.0.pc": [
+        "libstarpu-dev",
+        "libstarpu-contrib-dev"
+    ],
+    "starpu-1.1.pc": [
+        "libstarpu-dev",
+        "libstarpu-contrib-dev"
+    ],
+    "starpu-1.2.pc": [
+        "libstarpu-dev",
+        "libstarpu-contrib-dev"
+    ],
+    "starpu-1.3.pc": [
+        "libstarpu-dev",
+        "libstarpu-contrib-dev"
+    ],
+    "starpufft-1.0.pc": [
+        "libstarpu-dev",
+        "libstarpu-contrib-dev"
+    ],
+    "starpufft-1.1.pc": [
+        "libstarpu-dev",
+        "libstarpu-contrib-dev"
+    ],
+    "starpufft-1.2.pc": [
+        "libstarpu-dev",
+        "libstarpu-contrib-dev"
+    ],
+    "starpufft-1.3.pc": [
+        "libstarpu-dev",
+        "libstarpu-contrib-dev"
+    ],
+    "starpumpi-1.0.pc": [
+        "libstarpu-dev",
+        "libstarpu-contrib-dev"
+    ],
+    "starpumpi-1.1.pc": [
+        "libstarpu-dev",
+        "libstarpu-contrib-dev"
+    ],
+    "starpumpi-1.2.pc": [
+        "libstarpu-dev",
+        "libstarpu-contrib-dev"
+    ],
+    "starpumpi-1.3.pc": [
+        "libstarpu-dev",
+        "libstarpu-contrib-dev"
+    ],
+    "starpurm-1.3.pc": [
+        "libstarpu-dev",
+        "libstarpu-contrib-dev"
+    ],
+    "tbb.pc": [
+        "libtbb-dev",
+        "libtbb2-dev"
+    ],
+    "ps-engine.pc": [
+        "libopenni-sensor-pointclouds-dev",
+        "libopenni-sensor-primesense-dev"
+    ]
+}
