@@ -983,10 +983,10 @@ if __name__ == "__main__":
         program_package = json.load(jsonfile11)
 
         if function:
-            jsonfile9 = open(f"{jsonpath}/package_h_unique_func8.json")
+            jsonfile9 = open(f"{jsonpath}/package_h_unique_func.json")
             package_h_unique_func = json.load(jsonfile9)
 
-            jsonfile10 = open(f"{jsonpath}/package_l_unique_func2.json")
+            jsonfile10 = open(f"{jsonpath}/package_l_unique_func.json")
             package_l_unique_func = json.load(jsonfile10)
 
         os.environ['antlrpath'] = f"{script_directory}/antlr4-demo"
