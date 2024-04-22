@@ -13,7 +13,7 @@ PackHunter analyze the source code by using [*srcML*](https://www.srcml.org/)
 run command:
 ```
 cd packhunter
-python3 packhunter.py --path=$poroject_directory
+python3 packhunter.py --path=$project_directory
 ```
 
 ### Test
