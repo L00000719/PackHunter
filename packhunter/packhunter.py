@@ -452,7 +452,7 @@ def process_cmake():
             os.mkdir(f"{directory}/build")
 
         os.chdir(f"{directory}/build")
-        if (os.system(f"{script_directory}/mytrace cmake cmake -DCMAKE_PREFIX_PATH=/home/hzl/Mock_Building/mock_libs ..")) != 0:
+        if (os.system(f"{script_directory}/mytrace cmake cmake -DCMAKE_PREFIX_PATH={mock_libs_path} ..")) != 0:
             remove_virtual_files(directory)
         
         os.system(f"{script_directory}/mytrace make make -n -B > ../make_n")
@@ -954,6 +954,7 @@ if __name__ == "__main__":
         f = open(f'{directory}/mockbuild_result{new}', 'a')
 
         jsonpath = script_directory.rsplit("/", 1)[0] + "/json" 
+        mock_libs_path = script_directory.rsplit("/", 1)[0] + "/mock_libs" 
         
         jsonfile = open(f"{jsonpath}/lib_only_one_package.json")
         lib_only_one_package = json.load(jsonfile)

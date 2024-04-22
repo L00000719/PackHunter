@@ -19,29 +19,53 @@
         "libz-mingw-w64-dev",
         "zlib1g-dev"
     ],
+    "dbus-1.pc": [
+        "dbus-tests",
+        "libdbus-1-dev"
+    ],
     "PETSc.pc": [
+        "libpetsc-complex3.15-dbg",
         "libpetsc-complex3.15-dev",
+        "libpetsc-real3.15-dbg",
         "libpetsc-real3.15-dev",
+        "libpetsc64-complex3.15-dbg",
         "libpetsc64-complex3.15-dev",
+        "libpetsc64-real3.15-dbg",
         "libpetsc64-real3.15-dev"
     ],
     "petsc.pc": [
+        "libpetsc-complex3.15-dbg",
         "libpetsc-complex3.15-dev",
+        "libpetsc-real3.15-dbg",
         "libpetsc-real3.15-dev",
+        "libpetsc64-complex3.15-dbg",
         "libpetsc64-complex3.15-dev",
+        "libpetsc64-real3.15-dbg",
         "libpetsc64-real3.15-dev"
     ],
     "PETSc64.pc": [
+        "libpetsc64-complex3.15-dbg",
         "libpetsc64-complex3.15-dev",
+        "libpetsc64-real3.15-dbg",
         "libpetsc64-real3.15-dev"
     ],
     "petsc64.pc": [
+        "libpetsc64-complex3.15-dbg",
         "libpetsc64-complex3.15-dev",
+        "libpetsc64-real3.15-dbg",
         "libpetsc64-real3.15-dev"
     ],
     "HBAAPI.pc": [
         "libhaapi-dev",
         "libhbaapi-dev"
+    ],
+    "ImageMagick++.pc": [
+        "graphicsmagick-libmagick-dev-compat",
+        "libmagick++-6.q16-dev"
+    ],
+    "ImageMagick.pc": [
+        "graphicsmagick-libmagick-dev-compat",
+        "libmagickcore-6.q16-dev"
     ],
     "libclc.pc": [
         "libclc-13-dev",
@@ -186,6 +210,18 @@
         "libcunit1-dev",
         "libcunit1-ncurses-dev"
     ],
+    "egl.pc": [
+        "libegl-dev",
+        "emscripten"
+    ],
+    "glesv2.pc": [
+        "libgles-dev",
+        "emscripten"
+    ],
+    "gssrpc.pc": [
+        "libkrb5-dev",
+        "krb5-multidev"
+    ],
     "haisrt.pc": [
         "libsrt-gnutls-dev",
         "libsrt-openssl-dev"
@@ -197,6 +233,34 @@
     "jemalloc.pc": [
         "libjemalloc-dev",
         "librust-jemalloc-sys-dev"
+    ],
+    "kadm-client.pc": [
+        "libkrb5-dev",
+        "heimdal-dev",
+        "krb5-multidev"
+    ],
+    "kadm-server.pc": [
+        "libkrb5-dev",
+        "heimdal-dev",
+        "krb5-multidev"
+    ],
+    "kconfig-parser.pc": [
+        "kconfig-frontends",
+        "kconfig-frontends-nox"
+    ],
+    "kdb.pc": [
+        "libkrb5-dev",
+        "krb5-multidev"
+    ],
+    "krb5-gssapi.pc": [
+        "libkrb5-dev",
+        "heimdal-dev",
+        "krb5-multidev"
+    ],
+    "krb5.pc": [
+        "libkrb5-dev",
+        "heimdal-dev",
+        "krb5-multidev"
     ],
     "libagg.pc": [
         "libagg-dev",
@@ -236,13 +300,18 @@
         "libmeep-openmpi-dev",
         "libmeep-mpi-default-dev"
     ],
+    "mysqlclient.pc": [
+        "libmysqlclient-dev",
+        "libmariadb-dev-compat"
+    ],
     "neon.pc": [
         "libneon27-dev",
         "libneon27-gnutls-dev"
     ],
     "sdl.pc": [
         "libsdl1.2-compat-dev",
-        "libsdl1.2-dev"
+        "libsdl1.2-dev",
+        "emscripten"
     ],
     "srt.pc": [
         "libsrt-gnutls-dev",

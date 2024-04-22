@@ -25,9 +25,9 @@ if __name__ == "__main__":
     script_path = os.path.abspath(sys.argv[0])
     script_directory = os.path.dirname(script_path)
     jsonpath = script_directory.rsplit("/", 1)[0] + "/json"
-    jsonfile = open(f"{jsonpath}/pc_package_2.json", "r")
+    jsonfile = open(f"{jsonpath}/pc_package.json", "r")
     pc_package = json.load(jsonfile)
-    jsonfile2 = open(f"{jsonpath}/pc_only_one_package_2.json", "r")
+    jsonfile2 = open(f"{jsonpath}/pc_only_one_package.json", "r")
     pc_only_one_package = json.load(jsonfile2)
     programname = args.program
     install(programname)
