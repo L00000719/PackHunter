@@ -1,11 +1,7 @@
 # PackHunter: Recovering Missing Packages for C/C++ Projects
 
 ## Dataset
-We choose the projects with missing package errors that are investigated in our empirical study.
-
-### Empircal_Study
-
-This page lists 47 projects that failed to build in our empirical study, including categories of errors such as missing package error (30 out of 47), build script error (7 out of 47), source code error (5 out of 47), and miscellaneous error (5 out of 47). For the projects that failed to build due to missing package errors, we have listed the specific packages that were missing.
+We choose the projects with missing package errors that are investigated in our empirical study (https://github.com/PackHunter-dataset/Empircal_Study).
 
 | Project | Url | Root Causes | Missing Packages |
 |---------|-----|-------------|-----------------|
@@ -39,23 +35,6 @@ This page lists 47 projects that failed to build in our empirical study, includi
 | pocoproject/poco | https://github.com/pocoproject/poco | missing package | libssl-dev |
 | VowpalWabbit/vowpal_wabbit | https://github.com/VowpalWabbit/vowpal_wabbit | missing package | libfmt-dev libspdlog-dev libboost-all-dev |
 | mamedev/mame | https://github.com/mamedev/mame | missing package | libjpeg9-dev qtbase5-dev librm-dev libportmidi-dev libfreetype-dev libgig-dev libnglib-dev libceres-dev libfontconfig-dev portaudio19-dev libutf8proc-dev libsharp-dev libasmjit-dev libsdl2-ttf-dev libzstd-dev |
-| EZLippi/Tinyhttpd | https://github.com/EZLippi/Tinyhttpd | Build script |
-| cesanta/mongoose | https://github.com/cesanta/mongoose | Build script |
-| yrutschle/sslh | https://github.com/yrutschle/sslh | Build script |
-| MrGlockenspiel/activate-linux | https://github.com/MrGlockenspiel/activate-linux | Build script |
-| NVIDIA/cuda-samples | https://github.com/NVIDIA/cuda-samples | Build script |
-| pgbouncer/pgbouncer | https://github.com/pgbouncer/pgbouncer | Build script |
-| albfan/miraclecast | https://github.com/albfan/miraclecast | Build script |
-| beanstalkd/beanstalkd | https://github.com/beanstalkd/beanstalkd | source code |
-| bartobri/no-more-secrets | https://github.com/bartobri/no-more-secrets | source code |
-| mozilla/mozjpeg | https://github.com/mozilla/mozjpeg | source code |
-| AFLplusplus/AFLplusplus | https://github.com/AFLplusplus/AFLplusplus | source code |
-| haproxy/haproxy | https://github.com/haproxy/haproxy | source code |
-| orangeduck/Corange | https://github.com/orangeduck/Corange | other |
-| TelegramMessenger/MTProxy | https://github.com/TelegramMessenger/MTProxy | other |
-| sustrik/libmill | https://github.com/sustrik/libmill | other |
-| minoca/os | https://github.com/minoca/os | other |
-| vmg/sundown | https://github.com/vmg | other |
 
 ## PackHunter
 PackHunter is a tool that automates the recovery of missing packages in C/C++ projects.
